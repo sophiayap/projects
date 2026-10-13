@@ -4,15 +4,15 @@ Sophia Yap
 
 Small data analysis projects in R covering exploratory analysis, visualization, and basic modelling.
 
-## Mammal Sleep Patterns
+## [Mammal Sleep Patterns](Mammals-Sleep-Durations.pdf)
 
-`Mammals-Sleep-Durations.pdf` · data: `msleep` (`ggplot2`)
+Data: `msleep` (`ggplot2`)
 
 Compares total daily sleep across dietary categories (boxplot) and animal orders (dot plot against the overall mean).
 
-## Palmer Penguins
+## [Palmer Penguins](Palmer-Penguins.pdf)
 
-`Palmer-Penguins.pdf` · data: `penguins` (`palmerpenguins`)
+Data: `penguins` (`palmerpenguins`)
 
 Explores penguin measurements by species, island, and sex, then uses logistic regression to predict sex from bill length, flipper length, and body mass.
 
