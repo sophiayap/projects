@@ -4,7 +4,7 @@ Sophia Yap
 
 Small data analysis projects in R covering exploratory analysis, visualization, and basic modelling.
 
-## [Chick Weight and Feed Type](https://github.com/sophiayap/projects/blob/main/Chick-Weight-ANOVA.pdf)
+## [Chick Weight and Feed Type](https://github.com/sophiayap/projects/blob/main/Anova-Chickweight.pdf)
 
 Data: `chickwts` (built into R)
 
