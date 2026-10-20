@@ -1,27 +1,27 @@
-Projects
+# Projects
 
 Sophia Yap
 
 Small data analysis projects in R covering exploratory analysis, visualization, and basic modelling.
 
-Chick Weight and Feed Type
+## [Chick Weight and Feed Type](https://github.com/sophiayap/projects/blob/main/Chick-Weight-ANOVA.pdf)
 
-Data: chickwts (built into R)
+Data: `chickwts` (built into R)
 
 One-way ANOVA with Tukey's HSD post-hoc test. Feed type significantly affects chick weight (F(5, 65) = 15.37, p < 0.001).
 
-Mammal Sleep Patterns
+## [Mammal Sleep Patterns](https://github.com/sophiayap/projects/blob/main/Mammals-Sleep-Durations.pdf)
 
-Data: msleep (ggplot2)
+Data: `msleep` (`ggplot2`)
 
 Compares total daily sleep across dietary categories (boxplot) and animal orders (dot plot against the overall mean).
 
-Palmer Penguins
+## [Palmer Penguins](https://github.com/sophiayap/projects/blob/main/Palmer-Penguins.pdf)
 
-Data: penguins (palmerpenguins)
+Data: `penguins` (`palmerpenguins`)
 
 Explores penguin measurements by species, island, and sex, then uses logistic regression to predict sex from bill length, flipper length, and body mass.
 
-Tools
+## Tools
 
-R, ggplot2, dplyr, tidyr, forcats, palmerpenguins, R Markdown
+R, `ggplot2`, `dplyr`, `tidyr`, `forcats`, `palmerpenguins`, R Markdown
